@@ -1,6 +1,6 @@
 ## Slides
 
-1. [Intro](https://www.slideshare.net/secret/sraGvYcq2QfLNU)
+See folders above
 
 ## Book
 
