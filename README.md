@@ -5,7 +5,7 @@ Above, you will find all slides, exercises and datasets for every session. Durin
 
 ## Preparation
 
-Before the start of the course, make sure you have performed all preparations detailed in the document "Basic-LVM-course-preparation.pdf" (see above; this should not take you more than 30-60 minutes). 
+Before the start of the course, make sure you have performed all preparations detailed in the document "Basic-LVM-course-preparation.pdf" (see above; this should not take you more than 30-60 minutes). Note that you can view the pdf in your browser by clicking it. You can also download the pdf and view it in Acrobat; in that case, the links included in the document will be clickable. 
 
 
 ## Consultation Service
